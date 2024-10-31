@@ -53,19 +53,5 @@ public class Main {
 
 
 
-//            System.out.println("Enter your text to encode :");
-//             String input = sc.nextLine();
-//          try {
-//              HuffmanCoder huffmanCoder = new HuffmanCoder(input);
-//
-//              String encoded = huffmanCoder.encode(input);
-//              System.out.println("Encoded Text : " + encoded);
-//
-//              String decoded = huffmanCoder.decode(encoded);
-//              System.out.println("Decoded text : " + decoded);
-//          }catch (Exception e){
-//              System.out.println("An error Occured " + e.getMessage());
-//          }
-//        }
-//    }
+
 
